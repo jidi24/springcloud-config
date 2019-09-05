@@ -1,4 +1,4 @@
-foo: 1235
+foo: 1236
 spring:
    rabbitmq:
     host: 192.168.56.101
